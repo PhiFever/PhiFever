@@ -1,18 +1,14 @@
-<p><em>A bachelor student at <a href="https://www.uestc.edu.cn">University of Electronic Science and Technology of China</a>, majoring in Cyber security.</br>
-</em></p>
-
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Python, C/C++ , Golang],
    technologies: {
       backEnd: {
          Python: ["Flask", "Django"]
          Golang: ["Gin"]
       },
-      databases: ["MySQL"],
+      databases: ["MySQL", "MongoDB"],
    },
-   currentOccupation: ["Ready for work"],
+   currentOccupation: ["Work"],
    challenge: "Driving licence.",
 };
 ```
