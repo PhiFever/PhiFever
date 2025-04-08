@@ -3,10 +3,11 @@ const aboutMe = {
    code: [Python, C/C++ , Golang],
    technologies: {
       backEnd: {
-         Python: ["Flask", "Django"]
+         Python: ["Flask", "Fastapi"]
          Golang: ["Gin"]
       },
       databases: ["MySQL", "MongoDB"],
+      etc: crawler
    },
    currentOccupation: ["Work"],
    challenge: "Driving licence.",
